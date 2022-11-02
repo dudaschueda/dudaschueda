@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dudaschueda 
+- meu email de contato  é  maria.schueda@escola.pr.gov.br
+- eu estou interesada a aprender  a programar novas linguagens
+- eu estou aprenden a programar recentemente  a liguagem de javascript e scratch
